@@ -1,5 +1,5 @@
-# hybrid_summarization_eval
-Hybrid Ensemble Predictor as Quality Metric for German Text Summarization: Fraunhofer IAIS at GermEval 2020 Task 3
+# Hybrid Ensemble Predictor as Quality Metric for German Text Summarization: Fraunhofer IAIS at GermEval 2020 Task 3hybrid_summarization_eval
+
 
 This repository reproduces our work on automatic quality assesment of automatically generated German summaries.
 
