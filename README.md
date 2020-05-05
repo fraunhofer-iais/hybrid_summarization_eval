@@ -7,4 +7,4 @@ Citation
 --------
 If you find our software useful in your work, please consider citing:
 
-[1] Biesner, D., *et al.*: Hybrid Ensemble Predictor as Quality Metric for German TextSummarization: Fraunhofer IAIS at GermEval 2020 Task 3. 
+[1] Biesner, D., *et al.*: Hybrid Ensemble Predictor as Quality Metric for German Text Summarization: Fraunhofer IAIS at GermEval 2020 Task 3. 
