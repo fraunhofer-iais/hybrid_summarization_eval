@@ -1,10 +1,20 @@
-# Hybrid Ensemble Predictor as Quality Metric for German Text Summarization: Fraunhofer IAIS at GermEval 2020 Task 3
-
+Hybrid Ensemble Predictor as Quality Metric for German Text Summarization: Fraunhofer IAIS at GermEval 2020 Task 3
+======
 
 This repository reproduces our work on automatic quality assesment of automatically generated German summaries.
 
 Installation
 --------
+It can be installed in development mode with:
+
+.. code-block:: sh
+
+   $ git clone fraunhofer-iais/hybrid_summarization_eval
+   $ cd hybrid_summarization_eval
+   $ pip install -e .
+
+The ``-e`` dynamically links the code in the git repository to the Python site-packages so your changes get
+reflected immediately.
 
 
 How to use
