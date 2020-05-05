@@ -3,6 +3,13 @@
 
 This repository reproduces our work on automatic quality assesment of automatically generated German summaries.
 
+Installation
+--------
+
+
+How to use
+--------
+
 Citation
 --------
 If you find our software useful in your work, please consider citing:
