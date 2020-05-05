@@ -7,12 +7,12 @@ Installation
 --------
 It can be installed in development mode with:
 
-.. code-block:: sh
+```sh
 
    $ git clone fraunhofer-iais/hybrid_summarization_eval
    $ cd hybrid_summarization_eval
    $ pip install -e .
-
+```
 The ``-e`` dynamically links the code in the git repository to the Python site-packages so your changes get
 reflected immediately.
 
