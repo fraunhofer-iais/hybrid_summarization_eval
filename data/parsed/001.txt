@@ -1,0 +1,33 @@
+Original Text:
+im jahr 1973 begründete der "neusser sc" die tradition des eishockeysports in neuss. der spielbetrieb wurde in der saison 1975/76 aufgenommen, die herrenmannschaft spielte von 1986/87 bis 1988/89 in der 2. bundesliga. in neuss begannen unter anderem der ehemalige deutsche nationaltorwart helmut de raaf und der deutsche nationalspieler mark mackay ihre karriere. nachdem der klub im gründungsjahr 1973 zunächst in der regionalliga starten musste, gelang dem neusser sc in den folgenden spielzeiten der aufstieg in die oberliga. nach acht jahren in der dritthöchsten deutschen spielklasse, konnte zum ende der spielzeit 1985/86 der aufstieg in die 2. bundesliga perfekt gemacht werden. es folgten weitere drei jahre, ehe der nsc in der saison 1988/89 den spielbetrieb einstellen musste. nach dem neusser sc setzte der "neusser ec" den spielbetrieb fort, dessen herrenmannschaft zunächst in der regionalliga-west spielte. in der saison 1992/93 erreichte das team die sportliche qualifikation zur oberliga. als aufsteiger schafften die neusser den durchmarsch in die damals zweithöchste deutsche spielklasse, die 1. liga nord. die ebenfalls erfolgreiche frauenmannschaft des nec gewann unter der leitung von thomas althausen und uli hecht 1992/93 die deutsche meisterschaft. die ära des neusser ec endete im april 1995. kurz bevor der verein konkurs gegangen war, erreichte er das achtelfinale der play-offs, was in anbetracht der damaligen finanziellen möglichkeiten ein grosser erfolg für den nec war. der "neusser ev" wurde 1995 als nachfolgeverein des in konkurs gegangenen neusser ec gegründet. der neu gegründete verein nahm neun ex-neusser unter vertrag und nominierte des weiteren einige junioren in die erste mannschaft. folglich musste der nev in der landesliga antreten. dort blieb die mannschaft ohne niederlage und stieg somit in die verbandsliga auf, die man anschliessend auf wunsch des lev nrw überspringen durfte. in der ersten regionalliga-saison belegte der nev nach der vorrunde nur den fünften platz, stellte aber einen antrag beim landesverband, im regionalligapokal mitspielen zu dürfen. trotz fehlender sportlicher qualifikation für diese runde, wurde dem antrag stattgegeben. nach dem ersten spieltag legten einige klubs einspruch gegen diese entscheidung ein und bekamen teilweise recht. der nev musste daraufhin im regionalligapokal sowie in der qualifikationsrunde für die regionalliga antreten. dies gelang den verantwortlichen des neusser eishockeyvereins nur, weil daraufhin auch die junioren zum spielbetrieb angemeldet wurden. so wurde dann kurzfristig entschieden, welche spieler wo antraten. die erfolgreichste spielzeit des neusser ev war die saison 2005/2006, als der nev ungeschlagener meister der regionalliga nordrhein-westfalen wurde und sich am 24. märz 2006 mit einem endspielsieg über die herner eg blizzards für die oberliga qualifizierte. diese aufstiegsmöglichkeit wurde aber auf grund der fehlenden finanziellen mittel nicht wahrgenommen. während der nev in der saison 2007/08 zwar die aufstiegsrunde erreichte, dort aber nur den vorletzten platz belegte, folgte eine umstrukturierung der mannschaft. im sommer 2008 wurden viele spieler verpflichtet, die bereits zuvor das trikot des nev trugen. folglich erreichten die neusser in der spielzeit 2008/09 das play-off halbfinale der regionalliga, wo der klub allerdings in zwei partien gegen den späteren aufsteiger, den ehc dortmund, verlor. zur saison 2010/11 stieg die mannschaft in die neu gegründete oberliga west auf. ihre heimspiele tragen die mannschaften des neusser eishockeyvereins in der eissporthalle südpark aus. die im jahre 1974 erbaute halle mit ihrer 60 mal 30 meter grossen standardeisfläche bietet platz für ca. 2.850 zuschauer.
+
+Reference Summary:
+der neusser eishockey verein e. v. "" ist ein eishockeyverein aus neuss. er spielt seit 2010 in der oberliga west.
+
+Generated Summary 1:
+der neusser ec ist ein sportverein aus dem neusser sc de raaf. die erste mannschaft spielt seit dem jahr 1995 in der 2. bundesliga.
+
+Generated Summary 5:
+der neusser sc startet 1973 in die erste eishockey-saison. die herrenmannschaft stieg bis in die 2. bundesliga auf. die damen gewannen 1993 die deutsche meisterschaft. der verein musste den spielbetrieb zweimal einstellen und heisst heute neusser ev.
+
+Generated Summary 47:
+ihre heimspiele tragen die mannschaften des neusser eishockeyvereins in der eissporthalle südpark aus. zur saison 2010/11 stieg die mannschaft in die neu gegründete oberliga west auf. folglich musste der nev in der landesliga antreten.
+
+Generated Summary 58:
+im jahr 1973 begründete der "neusser sc" die tradition des eishockeysports in neuss. der spielbetrieb wurde in der saison 1975/76 aufgenommen, die herrenmannschaft spielte von 1986/87 bis 1988/89 in der 2. bundesliga. in neuss begannen unter anderem der ehemalige deutsche nationaltorwart helmut de raaf und der deutsche nationalspieler mark mackay ihre karriere.
+
+Generated Summary 59:
+der neusser ec ist ein eishockeyverein aus neuss. die erste mannschaft spielt seit der saison 2010/11 in der 2. bundesliga.
+
+Generated Summary 69:
+der neusser eishockey verein (nev) ist ein nachfolgeverein des neusser sc, welcher 1973 gegründet wurde und nach der saison 1985/86 in die 2. bundesliga aufstieg.  seit der saison 2010/11 spielt die mannschaft in der oberliga west.
+
+Generated Summary 78:
+der neusser sc ist ein eishockeyverein aus neuss. er wurde 1973 gegründet und spielt seit 2010 in der oberliga west.
+
+Generated Summary 108:
+der neusser eishockey verein gewann unter der leitung von thomas althausen und uli hecht 1992/93 die deutsche meisterschaft.
+
+Generated Summary 116:
+nachdem der klub im gründungsjahr 1973 zunächst in der regionalliga starten musste, gelang dem neusser sc in den folgenden spielzeiten der aufstieg in die oberliga. die erfolgreichste spielzeit des neusser ev war die saison 2005/2006, als der nev ungeschlagener meister der regionalliga nordrhein-westfalen wurde und sich am 24.
+

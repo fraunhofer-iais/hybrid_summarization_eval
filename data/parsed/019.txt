@@ -1,0 +1,78 @@
+Original Text:
+der "royal standard club de liège" wurde 1898 von schülern als "standard football club" gegründet. 1923 ergänzte er den vereinsnamen mit dem verliehenen königlichen prädikat. der vereinsname wurde ursprünglich durch "standard de paris", einen weiland populären französischen klub inspiriert. 1996 schloss sich der vormalige erstligist rfc seraing dem verein an. standard lüttich, der zweite in der ewigen ligatabelle belgiens, wurde bislang zehnmal belgischer meister und gewann sechsmal den belgischen pokal. entsprechend hatte der verein auch international viele auftritte. dabei drang er 1982 im europapokal der pokalsieger bis ins finale vor, unterlag dort aber nach einer frühen 1:0-führung im camp nou stadion von barcelona knapp dem fc barcelona mit 1:2. der frühere mönchengladbacher und fussballer des jahres von europa allan simonsen erzielte dabei einen der treffer für die katalanen. am 20. april 2008 konnte sich das team erstmals seit 1983 im vorentscheidenden heimspiel durch ein 2:0 gegen den rsc anderlecht die belgische meisterschaft sichern. nach saisonende verlängerte meistertrainer michel preud’homme seinen auslaufenden vertrag nicht und wechselte zum kaa gent. bei der entscheidung preud'hommes gegen ein weiteres engagement in lüttich war die laufzeit seines neuen vertrages der knackpunkt. während der trainer einen zweijahresvertrag favorisierte, wollte der verein lieber einen einjahreskontrakt abschliessen. vom juni 2008 bis februar 2010 wurde die mannschaft vom ehemaligen rumänischen nationalspieler lászló bölöni trainiert. in der saison 2008/09 konnte standard den titel nach zwei entscheidungsspielen gegen den rsc anderlecht verteidigen. die entscheidungsspiele waren notwendig geworden, nachdem beide klubs die saison mit jeweils 77 punkten und 24 siegen abgeschlossen hatten. die tordifferenz spielt in belgien keine rolle. nach einem 1:1 im hinspiel siegte standard gegen den rekordchampion im rückspiel in lüttich mit 1:0. es war der zehnte titelgewinn von lüttich. am 10. februar 2010 wurde der vertrag mit bölöni aufgelöst und der technische direktor dominique d'onofrio übernahm das training der mannschaft bis zum saisonende. der verein trägt seine heimspiele im drittgrössten stadion belgiens, dem 1984 erbauten maurice-dufrasne-stadion, inoffiziell "stade sclessin" genannt, aus. das stadion hat eine kapazität von rund 30.000 zuschauern. die frauenfussballabteilung spielt seit der saison 2012/2013 in der bene league red und wurde seit ihrer gründung 1975, 14-mal meister in der eerste klasse. daneben konnte man auch fünfmal den belgischen super cup, sowie zweimal den bene super cup gewinnen. zu den leistungsträgern gehören seit jahren die belgischen nationalspielerinnen kelly ickmans, maud coutereels, julie biesmans, audrey demoustier, cécile de gernier, aline zeler, davina philtjens und die marokkanische nationalspielerin ibtissam bouharat. bei standard wird auch seit jahrzehnten eine basketball-abteilung betrieben. im wichtigsten europapokal dieser sportart, dem landesmeisterpokal, schaffte es lüttich 1969 ins halbfinale. zudem spielte man diverse male im korać-cup mit, wo man 1972 ebenfalls das halbfinale erreichte. die nationale meisterschaft gewann standard dreimal, 1968, 1970 und 1977.
+
+Reference Summary:
+standard lüttich, offizieller name "royal standard club de liège", ist einer der erfolgreichsten fussballvereine belgiens und in lüttich beheimatet. er spielt in der ersten belgischen liga.
+
+Generated Summary 19:
+der royal standard club de liège ist ein belgischer belgischer footballverein aus lüttich. der verein wurde 1898 gegründet und trägt seine heimspiele im europapokal der pokalsiegeres.
+total:		0.3
+content:	0.5
+grammar:	0.2
+compact:	0.8
+abstractive: 	0.8
+
+Generated Summary 23:
+standard lüttich, der zweite in der ewigen ligatabelle belgiens, wurde bislang zehnmal belgischer meister und gewann sechsmal den belgischen pokal. april 2008 konnte sich das team erstmals seit 1983 im vorentscheidenden heimspiel durch ein 2:0 gegen den rsc anderlecht die belgische meisterschaft sichern.
+total:		0.4
+content:	0.5
+grammar:	1
+compact:	0.7
+abstractive: 	0
+
+Generated Summary 37:
+der "royal standard club de liège" wurde 1898 von schülern als "standard football club" gegründet. 1923 ergänzte er den vereinsnamen mit dem verliehenen königlichen prädikat. der vereinsname wurde ursprünglich durch "standard de paris", einen weiland populären französischen klub inspiriert. 1996 schloss sich der vormalige erstligist rfc seraing dem verein an. standard lüttich, der zweite in der ewigen ligatabelle belgiens, wurde bislang zehnmal belgischer meister und gewann sechsmal den belgischen pokal.
+total:		0.3
+content:	0.4
+grammar:	1
+compact:	0.5
+abstractive: 	0
+
+Generated Summary 40:
+standard lüttich gewann sechsmal im camp nou stadion von barcelona. am 20. april 2008 konnte sich das team nach zwei entscheidungsspielen gegen den rsc anderlecht verteidigen. im folgejahr schloss der verein als bester der regulären runde ab.
+total:		0.1
+content:	0.1
+grammar:	1
+compact:	0.5
+abstractive: 	0.5
+
+Generated Summary 77:
+der royal standard club de liège (lüttich) wurde 1898 gegründet und ist der zweiterfolgreichste fussballclub belgiens. er war zehnmal meister und gewann sechsmal den pokal. international war der vorstoss in den final des europapokals der pokalsieger 1982 der grösste erfolg.
+total:		0.65
+content:	0.7
+grammar:	0.5
+compact:	0.7
+abstractive: 	0.8
+
+Generated Summary 99:
+royal standard club de liège ist ein belgischer fussballverein aus lüttich. der verein spielt seit 1898 in der eerste klasse, der ewigen liga.
+total:		0.4
+content:	0.4
+grammar:	0.6
+compact:	0.3
+abstractive: 	0.8
+
+Generated Summary 118:
+der "royal standard club de liège" wurde 1898 von schülern als "standard football club" gegründet. 1923 ergänzte er den vereinsnamen mit dem verliehenen königlichen prädikat.
+total:		0.3
+content:	0.3
+grammar:	1
+compact:	0.4
+abstractive: 	0
+
+Generated Summary 135:
+der royal standard club de liège ist ein belgischer fussballverein aus lüttich. er spielt in der saison 2016/17 in der bene league red, der zweithöchsten spielklasse belgiens.
+total:		0.3
+content:	0.3
+grammar:	1
+compact:	0.7
+abstractive: 	0.8
+
+Generated Summary 194:
+der royal standard club de liège, meist einfach standard lüttich genannt, ist einer der erfolgreichsten belgischen fussballklubs. standard lüttich wurde bislang zehnmal belgischer meister und gewann mehrfach den belgischen pokal.
+total:		0.9
+content:	0.9
+grammar:	1
+compact:	0.9
+abstractive: 	0.9
+

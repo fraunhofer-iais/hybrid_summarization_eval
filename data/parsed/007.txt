@@ -1,0 +1,33 @@
+Original Text:
+die ostlandbahn ist nach dem borkumer ortsteil und der gleichnamigen östlichen inselhälfte benannt. sie diente dazu, die auf der insel gelegenen militäranlagen der kaiserlichen marine zu versorgen. diese entstanden, nachdem kaiser wilhelm ii. die insel borkum 1902 zur seefestung erklärt hatte. die meisten militäranlagen auf der insel erhielten – zumindest während der bauphase – einen gleisanschluss. 1908 wurde die strecke bis zur dünenbatterie errichtet und 1912/13 bis zur hörnbatterie verlängert. 1915 wurde noch ein umgehungsgleis um die wattbatterie verlegt. die betriebsführung der strecke lag nicht bei der bkb, sondern bei der "eisenbahnbetriebsabteilung der kommandantur borkum". für beide bahnanlagen galten gesonderte betriebsvorschriften. im ersten weltkrieg spielte die seefestung borkum keine rolle. kein einziger schuss wurde auf die insel abgefeuert. die ostlandbahn wurde vor und im zweiten weltkrieg weiter militärisch genutzt. aber nun fand hier auch personenverkehr zum flugplatz borkum und zur rennbahn statt, was zwischen den behörden zu streitereien führte, weil dafür keine genehmigung der kleinbahnaufsicht vorlag. wesentliche schäden an der ostlandbahn gab es auch im zweiten weltkrieg nicht. mit dem ""schlütergleis"" erhielt sie vielmehr nach dem einzigen bedeutenden luftangriff auf bahnhof und eisenbahnwerkstätten der bkb in der gemeinde borkum am 5. august 1944 noch eine direkte verbindung zur bahnstrecke borkum reede–borkum, die eine östliche umfahrung von ort und bahnhof borkum ermöglichte. die marine setzte auf der ostlandbahn – und auch auf den strecken der bkb – eigene lokomotiven, triebwagen und wagen ein. für diese fahrzeuge gibt es keine abgeschlossene dokumentation. bekannt ist der einsatz der dampflokomotiven "kommandantur borkum" und "kommandant" , der diesellokomotiven "leer" und "emden" , eines wismarer schienenbusses t2 , einer reihe von draisinen und personenwagen – darunter einer für den kommandanten der festung borkum. unter den güterwagen des militärs finden sich ausgesprochene exoten wie scheinwerferwagen und ein wagen für den transport angespülter wasserleichen. nach dem zweiten weltkrieg wurden die militärischen anlagen auf borkum durch die britische besatzungsmacht gesprengt und die "ostlandbahn" – einschliesslich des ""schlütergleises"" – musste jenseits des ehemals militärischen bahnbetriebswerks am barbaraweg abgerissen werden. diese arbeiten waren 1948 abgeschlossen. das bahnbetriebswerk am barbaraweg wurde zunächst von der bkb weiter genutzt, 1958 aber zugunsten der werkstätten westlich des borkumer bahnhofs zusammen mit dem zufahrtsgleis vom bahnhof borkum, dem letzten noch in betrieb befindlichen reststück der ostlandbahn, aufgegeben. von dem ehemaligen bahnbetriebswerk barbaraweg wurde die lokwerkstatt abgerissen. die beiden anderen hallen des bw stehen heute noch, die maler- und tischlerwerkstatt, die heute vom deutschen roten kreuz genutzt wird, und die schlosserei, die sich heute das domänenamt norden und der niedersächsische landesbetrieb für wasserwirtschaft, küsten- und naturschutz teilen.
+
+Reference Summary:
+die ostlandbahn war eine schmalspurige eisenbahnstrecke mit einer spurweite von 900 mm auf der ostfriesischen nordseeinsel borkum, die – in verlängerung der borkumer kleinbahn – von deren "bahnhof borkum" aus ab 1908 durch die kaiserliche marine als marinebahn errichtet und betrieben wurde.
+
+Generated Summary 7:
+das bahnbetriebswerk am barbaraweg wurde zunächst von der bkb weiter genutzt, 1958 aber zugunsten der werkstätten westlich des borkumer bahnhofs zusammen mit dem zufahrtsgleis vom bahnhof borkum, dem letzten noch in betrieb befindlichen reststück der ostlandbahn, aufgegeben.
+
+Generated Summary 28:
+die ostlandbahn war eine eisenbahnstrecke auf der insel borkum. sie wurde zur versorgung der kaiserlichen marine-anlagen gebaut, nachdem 1902 kaiser wilhelm ii. die insel borkum zur seefestung erklärt hatte. nach dem zweiten weltkrieg wurden die militärischen anlagen auf borkum durch die britische besatzungsmacht gesprengt und die bahn wurde abgerissen.
+
+Generated Summary 114:
+die ostlandbahn war eine schmalspurige eisenbahnstrecke auf der ostfriesischen insel borkum. sie wurde im zweiten weltkrieg zerstört.
+
+Generated Summary 132:
+das bahnbetriebswerk borkum wurde von der deutschen reichsbahn in der zeit des nationalsozialismus betrieben. es befindet sich im borkumer ortsteil bork.
+
+Generated Summary 141:
+das bahnbetriebswerk am barbaraweg wurde zunächst von der bkb weiter genutzt, 1958 aber zugunsten der werkstätten westlich des borkumer bahnhofs zusammen mit dem zufahrtsgleis vom bahnhof borkum, dem letzten noch in betrieb befindlichen reststück der ostlandbahn, aufgegeben.
+
+Generated Summary 153:
+die ostlandbahn ist nach dem borkumer ortsteil und der gleichnamigen östlichen inselhälfte benannt. sie diente ab 1908 zur versorgung der militäranlagen der kaiserlichen marine. die marine setzte auf der ostlandbahn eigene lokomotiven, triebwagen und wagen ein. nach dem zweiten weltkriegs wurden die bahnanlagen aufgegeben.
+
+Generated Summary 159:
+die ostlandbahn wurde vor und im zweiten weltkrieg vom deutschen roten kreuz genutzt. die schlosserei, das domänenamt norden und der niedersächsische landesbetrieb für wasserwirtschaft, küsten- und naturschutz diente dazu, die auf der insel gelegenen militäranlagen der kaiserlichen marine zu versorgen.
+
+Generated Summary 160:
+die bahnstrecke borkum ist eine eisenbahnstrecke in sachsen-anhalt. sie liegt in der ostlandbahn und wurde nach dem borkumer ortsteil und der rennbahn statt.
+
+Generated Summary 207:
+die ostlandbahn ist nach dem borkumer ortsteil und der gleichnamigen östlichen inselhälfte benannt. sie diente dazu, die auf der insel gelegenen militäranlagen der kaiserlichen marine zu versorgen. diese entstanden, nachdem kaiser wilhelm ii. die insel borkum 1902 zur seefestung erklärt hatte.
+

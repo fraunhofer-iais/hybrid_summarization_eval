@@ -1,0 +1,76 @@
+#####################
+# GENERAL USER INFO #
+#####################
+
+# PREDICTORS STRUCTURE
+# predictors:
+#   predictor_1:
+#     arg_1: value
+#     arg_2: value
+#     ...
+#   predictor_2:
+#     ...
+
+# All uncommented predictors are used and evaluated in the pipeline
+
+
+#####################
+# CONFIG            #
+#####################
+
+output: 'corpus_all_references.json'
+
+include_reference_summaries: True
+
+predictors:
+  tfidf_content_predictor:
+    preprocessing: ['to_lower',
+                    'remove_stopwords',
+                    'remove_punctuation',
+#                    'remove_digits',
+                    'remove_multi_spaces']
+    num_important_words: 10
+    tfidf_args:
+      max_df: 0.9
+
+  nmf_content_predictor:
+    preprocessing: ['to_lower',
+                    'remove_stopwords',
+                    'remove_punctuation',
+#                    'remove_digits',
+                    'remove_multi_spaces']
+    matrix_type: 'cooc'
+    window_size: 5
+    n_topics: 10
+    n_topic_words: 5
+
+  flair_ner_content_predictor:
+
+  flair_grammar_predictor:
+
+#  baseline_predictor:
+#    baseline_score: 0.5
+
+  compression_predictor:
+
+  grammar_predictor:
+    grammar_penalty: 1
+#
+#  spacy-transformer_predictor:
+
+  sbert_predictor:
+
+  sentence_similarity_predictor:
+    method: 'consecutive_not_first'
+
+  rouge_predictor:
+    methods: [['rouge-1', 'summary'],
+              ['rouge-1', 'fulltext'],
+              ['rouge-2', 'summary'],
+              ['rouge-2', 'fulltext']
+    ]
+
+  number_matching_predictor:
+
+aggregator:
+  name: 'agg_linear_reg'

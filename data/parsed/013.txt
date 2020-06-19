@@ -1,0 +1,78 @@
+Original Text:
+thomson stammte aus einer physikerfamilie. seine eltern waren joseph john thomson, physiker und nobelpreisträger des jahres 1906, und rose elisabeth paget, die tochter eines professors für medizin an der universität cambridge. thomson ging auf die perse school in cambridge und studierte bei seinem vater mathematik und physik am trinity college der universität cambridge, bis er bei ausbruch des ersten weltkrieges in den dienst des queen's royal west surrey regiment trat. nach kurzer dienstzeit in frankreich untersuchte er die aerodynamik von flugzeugen unter anderem in farnborough. 1920 schied er als captain aus dem militärdienst aus. 1924 heiratete thomson kathleen buchanan smith, die tochter des theologen sir george adam smith. sie hatten vier kinder, zwei jungen und zwei mädchen. nach dem militärdienst erhielt thomson eine stelle an der universität cambridge und wechselte dann zur universität aberdeen. 1927 entdeckte er dort unabhängig von dem amerikaner clinton joseph davisson die elektronenbeugung am kristallgitter, ein beweis für die materiewellen-theorie de broglies. hierfür erhielten beide den nobelpreis für physik 1937. 1930 wurde thomson zum früheren lehrstuhl von hugh longbourne callendar am imperial college in london berufen. in den späten 30er jahren und während des zweiten weltkrieges spezialisierte thomson sich auf kernphysik und konzentrierte sich auf praktische militärische anwendungsmöglichkeiten. insbesondere war thomson von 1940 bis 1941 vorsitzender der britischen maud-kommission, die entschied, dass eine atombombe möglich war. während des zweiten weltkrieges war er zeitweilig verbindungsoffizier zwischen amerikanischen und britischen wissenschaftlern und war damit direkt am atombomben-projekt beteiligt. 1941 starb seine frau kathleen. nach dem krieg befasste sich thomson mit theoretischen problemen der atomenergienutzung, schrieb aber auch arbeiten über aerodynamik und den wert der wissenschaft in der gesellschaft. 1952 wechselte thomson von london nach cambridge, wo er bis 1962 master des corpus christi college war. 1964 ehrte ihn das college mit dem george thomson building, einem gebäude auf dem leckhampton campus des college.
+
+Reference Summary:
+george paget thomson war ein englischer physiker und nobelpreisträger.
+
+Generated Summary 13:
+george paget thomson studierte am trinity college in cambridge mathematik und physik. 1927 entdeckte er die elektronenbeugung am kristallgitter und bewies, dass teilchen auch eigenschaften von wellen haben. dafür erhielt er 1937 den nobelpreis. während des weltkriegs forschte er im bereich der kernphysik und ihrer militärischen anwendung.
+total:		0.9
+content:	0.9
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 51:
+george thomson war physiker und nobelpreisträger des jahres 1906 für den nachweis, dass elektronen teilchen sind. er entdeckte zusammen mit dem amerikaner clinton joseph davisson die elektronenbeugung am kristallgitter, ein beweis dafür, dass die teilchen gemäss der materiewellen-theorie von de broglie keine eigenschaften von wellen haben.
+total:		0.2
+content:	0.2
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 60:
+seine eltern waren joseph john thomson, physiker und nobelpreisträger des jahres 1906, und rose elisabeth paget, die tochter eines professors für medizin an der universität cambridge.
+total:		0.3
+content:	0.5
+grammar:	1
+compact:	0.3
+abstractive: 	0
+
+Generated Summary 64:
+thomson stammte aus einer physikerfamilie. seine eltern waren joseph john thomson, physiker und nobelpreisträger des jahres 1906, und rose elisabeth paget, die tochter eines professors für medizin an der universität cambridge. thomson ging auf die perse school in cambridge und studierte bei seinem vater mathematik und physik am trinity college der universität cambridge, bis er bei ausbruch des ersten weltkrieges in den dienst des queen's royal west surrey regiment trat.
+total:		0.5
+content:	0.5
+grammar:	1
+compact:	0.6
+abstractive: 	0
+
+Generated Summary 92:
+seine eltern waren joseph john thomson, physiker und nobelpreisträger des jahres 1906, und rose elisabeth paget, die tochter eines professors für medizin an der universität cambridge. thomson stammte aus einer physikerfamilie.
+total:		0.3
+content:	0.5
+grammar:	1
+compact:	0.3
+abstractive: 	0
+
+Generated Summary 115:
+kathleendar thomson war ein britischer physiker. er war von 1937 bis 1962 professor an der universität cambridge.
+total:		0.1
+content:	0.1
+grammar:	1
+compact:	0.5
+abstractive: 	0.3	
+
+Generated Summary 119:
+thomson kathleen buchanan smith war ein niederländischer physiker. er war von 1930 bis 1941 vorsitzender der universität aberdeen.
+total:		0.2
+content:	0.1
+grammar:	1
+compact:	0.5
+abstractive: 	0.6
+
+Generated Summary 150:
+george thomson war ein englischer physiker, er erhielt 1937 den nobelpreis für den nachweis der elektronenbeugung an kristallgitter. während des zweiten weltkrieges beschäftigte er sich mit militärischen anwendungsmöglichkeiten der kernphysik und war als verbindungsoffizier zwischen amerikanischen und britischen wissenschaftlern direkt an der entwicklung der atombombe beteiligt.
+total:		0.9
+content:	0.9
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 214:
+sir george thomson war ein britischer physiker. er erhielt 1937 den nobelpreis für physik.
+total:		0.9
+content:	0.8
+grammar:	1
+compact:	0.6
+abstractive: 	0.8
+

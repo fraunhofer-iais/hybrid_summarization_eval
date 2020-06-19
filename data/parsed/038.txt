@@ -1,0 +1,33 @@
+Original Text:
+johann mock begann seine karriere beim fc nicholson , bevor er im jahre 1927 zur austria wien wechselte. mit den veilchen konnte der elegante und technisch perfekte mittelläufer dreimal den österreichischen cup gewinnen . gemeinsam mit karl adamek, karl gall und walter nausch bildete er die starke austria-mittelfeldformation der 1930er jahre und gewann auf internationaler ebene zweimal den mitropacup , den vorläufer des heutigen europacups. durch seine starke leistung bei der austria wurde johann mock am 15. september 1929 im spiele gegen die tschechoslowakei erstmals ins nationalteam einberufen. österreich gewann bei mocks premierenspiel mit 2:1. zur zeit des legendären wunderteams war johann mock ein wichtiger bestandteil der nationalmannschaft, spielte beispielsweise beim 5:0-sieg gegen deutschland. allerdings musste sich der klassische mittelläufer der alten "wiener schule", angesichts der konkurrenz durch josef smistik und leopold hofmann im wunderteam mit der position des rechten aussenläufers zufriedengeben. bis zum anschluss österreichs an das deutsche reich absolvierte der verteidiger insgesamt zwölf spiele für die österreichische nationalmannschaft. während der zeit der zugehörigkeit österreichs zum dritten reich trug johann mock, zeitweise auch als kapitän, zwischen 1938 und 1942 insgesamt fünf mal das trikot mit dem reichsadler und nahm mit der deutschen elf an der fussball-weltmeisterschaft 1938 in frankreich teil. nach einem interviewbeitrag von franz schwarz, sohn des austria-präsidenten von 1933 bis 1938 und 1946 bis 1955 michl schwarz, im jahr 2008, war mock schon vor 1938 mitglied der damals in österreich illegalen nsdap und sa-mitglied. mock war 1938 daran beteiligt, als die klubführung bei austria von den nationalsozialisten übernommen wurde. im jahre 1942 beendete hans mock, der es insgesamt zu 40 auswahlspielen brachte, schliesslich seine aktive karriere. nach einer kurzen trainertätigkeit bei vorwärts steyr und dem badener ac zog er sich gänzlich vom fussball zurück und führte bis zu seinem ableben im alter von 75 jahren seine eigene weinstube in der wiener innenstadt.
+
+Reference Summary:
+johann "hans" mock war ein österreichischer und deutscher fussballspieler auf der position des verteidigers und mittelläufers.
+
+Generated Summary 38:
+gemeinsam mit karl adamek, karl gall und walter nausch bildete er die starke austria-mittelfeldformation der 1930er jahre und gewann auf internationaler ebene zweimal den mitropacup, den vorläufer des heutigen europacups. durch seine starke leistung bei der austria wurde johann mock am 15.
+
+Generated Summary 46:
+johann mock war ein österreichischer fussballspieler auf der position eines verteidigers. mit dem fc nicholson nahm er an der fussball-weltmeisterschaft 1938 teil.
+
+Generated Summary 48:
+johann mock war ein österreichischer fussballer, der mit austria wien drei mal den österreichischen und zwei mal den mitropa-cup gewann. er absolvierte 40 länderspiele, fünf davon für die reichsauswahl, eines an der weltmeisterschaft 1938. 1942 beendete mock seine karriere und führte eine weinstube in wien.
+
+Generated Summary 54:
+johann mock war der sohn des austria-präsidenten von 1933 bis 1938 und 1946 bis 1955, michl schwarz.  gemeinsam mit karl adamek, karl gall und walter nausch war er schon vor 1938 mitglied der damals in österreich illegalen nsdap und sa-mitglied.
+
+Generated Summary 75:
+während der zeit der zugehörigkeit österreichs zum dritten reich trug johann mock, zeitweise auch als kapitän, zwischen 1938 und 1942 insgesamt fünf mal das trikot mit dem reichsadler und nahm mit der deutschen elf an der fussball-weltmeisterschaft 1938 in frankreich teil.
+
+Generated Summary 86:
+johann mock war ein österreichischer fussballspieler und -trainer. als spieler wurde er mit dem fc nicholson deutscher meister.
+
+Generated Summary 121:
+johann mock war ein österreichischer fussballspieler auf den positionen des mittelläufers und rechten aussenläufers. er spielte 12 mal im österreichischen nationalteam und nach dem anschluss österreichs ans dritte reich trug er fünf mal das trikot mit dem reichsadler, zeitweise sogar als mannschaftskapitän.
+
+Generated Summary 192:
+johann mock begann seine karriere beim fc nicholson, bevor er im jahre 1927 zur austria wien wechselte. mit den veilchen konnte der elegante und technisch perfekte mittelläufer dreimal den österreichischen cup gewinnen. gemeinsam mit karl adamek, karl gall und walter nausch bildete er die starke austria-mittelfeldformation der 1930er jahre und gewann auf internationaler ebene zweimal den mitropacup, den vorläufer des heutigen europacups.
+
+Generated Summary 203:
+johann "hans" mock war ein österreichischer fussballspieler und -trainer. der verteidiger nahm mit der nationalmannschaft an der weltmeisterschaft 1938 in frankreich teil.
+

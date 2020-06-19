@@ -1,0 +1,78 @@
+Original Text:
+albert ziegler gründete das unternehmen im jahr 1891 zur produktion von feuerwehrschläuchen und schlauchpflegegeräten mit fünf flachwebstühlen und zehn mitarbeitern in der ehemaligen klingenmühle in giengen an der brenz. bereits auf der weltausstellung 1894 in antwerpen wurden feuerwehrschläuche der firma ziegler ausgezeichnet. im jahr 1918 übernahm kurt ziegler die geschäftsführung. er erweiterte das unternehmen deutlich und verlagerte das betriebsgelände an den ostrand der stadt giengen. noch heute befindet sich der hauptsitz der ziegler-gruppe an der memminger strasse in giengen an der brenz. zu den neuentwicklungen der firma gehörten die tragkraftspritze , die erste elektrische schlauchwaschmaschine und eine vollautomatische schlauch-aufhängevorrichtung , sowie der "trokomat" im jahr 1967. unter dem neuen geschäftsführer günther ziegler begann das unternehmen 1953 mit dem bau von feuerwehrfahrzeugen. das erste gefertigte fahrzeug war ein "klf 6" auf einem opel blitz fahrgestell. dieses fahrzeug befindet sich noch heute in der historischen ausstellung in giengen. seit 1969 fertigt ziegler flugfeldlöschfahrzeuge, das erste fahrzeug dieser art wurde nach kopenhagen geliefert. 1990 folgt der z1, 1992 die modellreihe z8, 1997 wird der erste z6 vorgestellt. anfang 2011 verhängte das deutsche bundeskartellamt gegen die rosenbauer-gruppe, die schlingmann gmbh & co. kg sowie die albert ziegler gmbh & co. kg wegen verbotener preis- und quotenabsprachen des seit 2001 bestehenden feuerwehrfahrzeuge-kartells bussgelder in höhe von insgesamt 20,5 mio. euro sowie weitere 17,5 mio. euro gegen den mitbewerber iveco magirus, davon entfielen acht millionen euro auf ziegler. nach darstellung von ziegler sind alle im kartell involvierten angestellten seit anfang mai 2011 nicht mehr im unternehmen. beginnend mit der berufung von marc-rené faerber zum geschäftsführer am 4. april 2011 wurde die compliance im mai und juni 2011 für alle mitarbeiter verbindlich eingeführt, es gibt einen schriftlich fixierten und von allen führungskräften zu unterschreibenden verhaltenskodex. am 16. august 2011 hat die albert ziegler gmbh & co. kg beim amtsgericht aalen insolvenz angemeldet, da das unternehmen durch die kartellbusse in liquiditätsprobleme geraten sei. insolvenzverwalter wurde bruno kübler aus giengen. die produktion lief weiter, die ausländischen tochtergesellschaften waren nach angaben des insolvenzverwalters von der insolvenz nicht betroffen. im oktober 2011 brachte ziegler das "zweiköpfige" tunnelrettungsfahrzeug "merkur" auf den markt. es verfügt über zwei identische fahrerhäuser und kann somit ohne zu rangieren in einen tunnel ein- und ausfahren. durch den reinen elektroantrieb ist das fahrzeug auch bei sauerstoffmangel bei tunnelbränden uneingeschränkt einsetzbar. am 8. november 2013 wurde ziegler mit den zwölf tochtergesellschaften für 55 millionen euro an die china international marine containers group mit sitz in shenzhen verkauft. im gleichen jahr wurde yinhui li der neue geschäftsführer der albert ziegler gmbh. im oktober 2014 übernahm youjun luan diesen posten. etwa 600 der rund 1000 mitarbeiter sind im stammhaus in giengen beschäftigt, das eine fläche von 80.000 quadratmetern umfasst. weitere werke befinden sich in mühlau, rendsburg, winschoten , lana , vrhnika , zagreb und jakarta . die firma ziegler baut folgende einsatzfahrzeuge, die bei verschiedenen feuerwehren eingesetzt werden: die fahrzeugtypen einsatzleitwagen , vorausrüstwagen , mannschaftstransportfahrzeug , mehrzwecktransportfahrzeug mit ladehilfe , tragkraftspritzenfahrzeug , löschgruppenfahrzeug , hilfeleistungslöschgruppenfahrzeug sowie den rüstwagen . ebenfalls im liefersortiment sind tanklöschfahrzeuge wie beispielsweise das tanklöschfahrzeug 4000. ausserdem werden verschiedene gerätewagen gebaut, z. b. gw-gefahrgut oder gw-logistik. es gibt noch verschiedene abrollbehälter wie z. b. ab-mulde, ab-rüst, ab-gefahrgut, ab-sonderlöschmittel. ziegler baut für industriebetriebe, raffinerien oder flughäfen sondereinsatzfahrzeuge, die speziell auf ein einsatzfeld abgestimmt sind. diese einsatzfahrzeuge sind z. b. vorausrüstfahrzeuge oder hilfeleistungslöschfahrzeuge, die sich in der technik von einem normalen einsatzfahrzeug unterscheiden. ausserdem gibt es grosstanklöschfahrzeuge in verschiedenen grössen. für flughäfen werden von der fa. ziegler unter anderem flugfeldlöschfahrzeuge gebaut; die neuesten typen werden als flf z6 und z8 bezeichnet. die 3- und 4-achsigen fahrzeuge können bis zu 13.500 l wasser mitführen. ausserdem können sie noch schaummittel, pulver sowie co mitführen. auch schnellangriffseinrichtungen oder ein lösch-gelenk-arm sind möglich. die firma ziegler fertigt auch wasserwerfer für den polizeieinsatz. abrollbehälter werden auch in der industrie eingesetzt, wie z. b. für grosslüfter oder bei hochwasser.
+
+Reference Summary:
+die albert ziegler gmbh mit sitz in giengen an der brenz ist ein deutscher hersteller von feuerwehrfahrzeugen und feuerwehrtechnischem zubehör und gehört zur china international marine containers group . von weltweit über 1000 mitarbeitern sind rund 600 am stammsitz in giengen an der brenz beschäftigt. weitere fertigungsstandorte befinden sich im in- und ausland.
+
+Generated Summary 20:
+die albert ziegler gmbh wurde 1891 ursprünglich für die produktion von feuerwehrschläuchen und schlauchpflegegeräten gegründet. später produzierte die firma mit sitz in giengen an der brenz feuerwehrfahrzeuge, flugfeldlöschfahrzeuge und tunnelrettungsfahrzeug. wegen verbotenen preis- und quotenabsprachen kam ziegler in bedrängnis und wurde 2013 mit zwölf tochtergesellschaften an die china international marine containers group verkauft.
+total:		0.9
+content:	0.9
+grammar:	1
+compact:	0.9
+abstractive: 	0.9
+
+Generated Summary 34:
+albert ziegler verhängte gegen das deutsche bundeskartellamt, gegen die rosenbauer-gruppe und die schlingmann gmbh & co wegen verbotener preis- und quotenabsprachen bussgelder in höhe von insgesamt 20,5 mio. euro sowie weitere 17,5 mio. euro gegen den mitbewerber iveco magirus. der insolvenzverwalter bruno kübler aus giengen wurde mit den zwölf tochtergesellschaften für 55 millionen euro an die china international marine containers group (cimc) mit sitz in shenzhen verkauft.
+total:		0.1
+content:	0.05
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 102:
+am 8. november 2013 wurde ziegler mit den zwölf tochtergesellschaften für 55 millionen euro an die china international marine containers group mit sitz in shenzhen verkauft. unter dem neuen geschäftsführer günther ziegler begann das unternehmen 1953 mit dem bau von feuerwehrfahrzeugen.
+total:		0.25
+content:	0.3
+grammar:	1
+compact:	0.7
+abstractive: 	0
+
+Generated Summary 122:
+die ziegler gmbh ist ein deutscher hersteller von feuerwehrfahrzeugen. das unternehmen wurde 2013 von der albert ziegler gmbh gegründet.
+total:		0.15
+content:	0.1
+grammar:	0.8
+compact:	0.7
+abstractive: 	0.7
+
+Generated Summary 129:
+die albert ziegler gmbh & co. kg ist ein deutscher hersteller von feuerwehrschläuchen und schlauchgeräten mit sitz in giengen an der brenz. das unternehmen beschäftigt ca. 800 mitarbeiter.
+total:		0.7
+content:	0.6
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 164:
+albert ziegler gründete das unternehmen im jahr 1891 zur produktion von feuerwehrschläuchen und schlauchpflegegeräten mit fünf flachwebstühlen und zehn mitarbeitern in der ehemaligen klingenmühle in giengen an der brenz. ziegler baut für industriebetriebe, raffinerien oder flughäfen sondereinsatzfahrzeuge, die speziell auf ein einsatzfeld abgestimmt sind.
+total:		0.3
+content:	0.4
+grammar:	1
+compact:	0.8
+abstractive: 	0
+
+Generated Summary 168:
+die firma ziegler feuerwehrbedarf in giengen wurde 1891 gegründet und stellte zunächst hochwertige schläuche her. ab 1925 kamen weitere produkte dazu wie feuerwehrfahrzeuge, tunnelrettungsfahrzeuge und wasserwerfer für die polizei. 2013 wurde die firma mit ihren ausländischen tochtergesellschaften nach china verkauft.
+total:		0.85
+content:	0.8
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 177:
+albert ziegler gründete das unternehmen im jahr 1891 zur produktion von feuerwehrschläuchen und schlauchpflegegeräten mit fünf flachwebstühlen und zehn mitarbeitern in der ehemaligen klingenmühle in giengen an der brenz. bereits auf der weltausstellung 1894 in antwerpen wurden feuerwehrschläuche der firma ziegler ausgezeichnet. im jahr 1918 übernahm kurt ziegler die geschäftsführung.
+total:		0.3
+content:	0.5
+grammar:	1
+compact:	0.8
+abstractive: 	0
+
+Generated Summary 190:
+albert ziegler war ein deutscher hersteller von feuerwehrschläuchen und schlauchpflegegeräten.
+total:		0.5
+content:	0.5
+grammar:	1
+compact:	0.4
+abstractive: 	0.9
+

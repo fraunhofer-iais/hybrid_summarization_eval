@@ -1,0 +1,78 @@
+Original Text:
+die band wurde im sommer 1978 während einer demonstration gegen eine jugendhausschliessung in bad schussenried gegründet. gründungsmitglieder waren die zwillingsbrüder georg und alexander köberlein sowie hansi fink. die gruppe nannte sich anfangs "igor, boris und nikita grachmusikoff". erst in späteren jahren wurde der bandname auf grachmusikoff verkürzt. alex köberlein gründete 1979 parallel zu seinem engagement bei grachmusikoff die band schwoissfuass, die zunächst das repertoire von grachmusikoff übernahm, dieses aber auf rockigere art interpretierte. anfang der 1980er jahre wurde schwoissfuass mit eigenen kompositionen in baden-württemberg recht erfolgreich, wodurch das projekt grachmusikoff zunächst in den hintergrund trat. schwoissfuass löste sich allerdings 1986 auf, so dass grachmusikoff wieder in den fokus rückte. in den ersten jahren spielte grachmusikoff in der grundbesetzung gesang, keyboard, gitarre vor allem ruhige, teilweise auch volkstümliche lieder. mit der aufnahme des ex-schwoissfuass-drummers jürgen bratke und des bassisten dieter zimmermann wandelte sich die gruppe allerdings immer mehr zu einer rockband. dementsprechend übernahm sie in den folgejahren einige stücke der stärker rockorientierten schwesterband schwoissfuass. vor allem die schwoissfuass-hits "oinr isch emmr dr arsch" und "bin ich selbr rastaman?" wurden fester bestandteil des grachmusikoff-repertoirs bei konzerten. im jahr 1986 veröffentlichte grachmusikoff die lp "dame oder schwein", die im unterschied zu früheren werken vor allem hochdeutsche texte hatte. es gelang in folge auch, ein publikum ausserhalb baden-württembergs zu erreichen, allerdings nicht in dem masse, wie es sich die band mit einem "major-vertrag" im rücken erhofft hatte. 1990 erschien die cd "im musikantenstadl", die sich von allen platten der band am besten verkaufte. in den nachfolgenden jahren veröffentlichte grachmusikoff etwa alle zwei jahre eine neue cd und absolvierte circa 60 live-auftritte pro jahr mit einem abschiedskonzert am 28. dezember 2017 im sudhaus in tübingen beendete die band ihre tätigkeit aus altersgründen. das markenzeichen von grachmusikoff waren von anfang an die oberschwäbischen texte der lieder. bereits ihr erstes stück "d’ marie hockt dussa und pläret" war eine übersetzung des volksliedes "mariechen sass weinend im garten" ins schwäbische. nur wenige stücke, ausser auf der cd "dame oder schwein", sind in hochdeutsch gehalten. im gegensatz zur weitgehend durchgängigen verwendung von dialekttexten, war die musik der gruppe von zahlreichen stilen geprägt. es finden sich sowohl stücke, die stark durch volks- und popmusik beeinflusst sind, als auch solche die eher dem blues oder der rockmusik zugerechnet werden können. auch der einfluss von reggae und ska ist in einigen liedern zu hören. typisch für grachmusikoff war darüber hinaus eine witzige und wilde bühnenshow, bei der die übergänge zwischen den einzelnen liedern aus relativ langen sprechanteilen bestanden, in denen häufig mit witzen und anekdoten schwäbische eigenarten auf die schippe genommen wurden. am 11. april 2013 wurde den gründungsmitglieder der band der ehrenpreis des kleinkunstpreises baden-württemberg verliehen. das grachmusikoff trio sei – so die jury in ihrer begründung – zum "fleischgewordenen monument schwäbischer volkskultur geworden. seit 35 jahren spiegelten ihre lieder das lebensgefühl nicht nur ihrer schwäbischen zeitgenossen wider. spielfreude und eine beeindruckende instrumentenvielfalt könnten nur gepaart mit professionalität über einen so langen zeitraum der kritik standhalten."
+
+Reference Summary:
+grachmusikoff war eine band aus bad schussenried, deren texte weitgehend im oberschwäbischen dialekt gehalten sind. die gruppe war ende der 1970er jahre ein wegbereiter des schwobarocks.
+
+Generated Summary 22:
+schwoissfuass ist eine deutsche band grachmusikoff aus dem jahr 1978. sie besteht aus einem engagement von alex köberlein.
+total:		0.2
+content:	0.1
+grammar:	0.5
+compact:	0.5
+abstractive: 	0.9
+
+Generated Summary 29:
+anfang der 1980er jahre wurde schwoissfuass mit eigenen kompositionen in baden-württemberg recht erfolgreich, wodurch das projekt grachmusikoff zunächst in den hintergrund trat. es gelang in folge auch, ein publikum ausserhalb baden-württembergs zu erreichen, allerdings nicht in dem masse, wie es sich die band mit einem "major-vertrag" im rücken erhofft hatte.
+total:		0.15
+content:	0.2
+grammar:	1
+compact:	0.6
+abstractive: 	0
+
+Generated Summary 42:
+grachmusikoff wurde anfang der 1980er jahre mit eigenen kompositionen in baden-württemberg recht erfolgreich. sie übernahmen das repertoire der band schwoissfuass, interpretierten dieses aber auf rockigere art, lösten sich allerdings 1986 auf.
+total:		0.4
+content:	0.3
+grammar:	0.7
+compact:	0.85
+abstractive: 	0.8
+
+Generated Summary 84:
+grachmusikoff war eine deutsche musikgruppe, die 1978 in bad schussenried in baden-württemberg gegründet wurde. sie gilt als eine der ersten deutschen rockmusiker.
+total:		0.4
+content:	0.5
+grammar:	0.2
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 97:
+die band grachmusikoff wurde 1978 von den brüdern köberlein und hansi fink in bad schussenried gegründet. ihr kennzeichen sind die schwäbischen songtexte und die witzige bühnenshow. stilistisch wandte sich die band ab 1986 stärker der rockmusik zu.
+total:		0.95
+content:	0.9
+grammar:	1
+compact:	0.9
+abstractive: 	0.9
+
+Generated Summary 104:
+grachmusikoff war eine deutsche alternative-rockband aus schussenried im elsass. sie wurde 1979 gegründet und bestand bis zum ende der 1980er jahre.
+total:		0.3
+content:	0.2
+grammar:	1
+compact:	0.7
+abstractive: 	0.9
+
+Generated Summary 167:
+grachmusikoff war eine rock-band, die ursprünglich während einer jugend-demonstration in bad schussenried gegründet würde. ihr markenzeichen waren die oberschwäbischen lied-texte. ende 2017 beendete die band ihre tätigkeit aus altersgründen.
+total:		0.85
+content:	0.8
+grammar:	1
+compact:	0.8
+abstractive: 	0.7
+
+Generated Summary 178:
+die band wurde im sommer 1978 während einer demonstration gegen eine jugendhausschliessung in bad schussenried gegründet. gründungsmitglieder waren die zwillingsbrüder georg und alexander köberlein sowie hansi fink. die gruppe nannte sich anfangs "igor, boris und nikita grachmusikoff".
+total:		0.25
+content:	0.3
+grammar:	1
+compact:	0.6
+abstractive: 	0
+
+Generated Summary 186:
+das markenzeichen von grachmusikoff waren von anfang an die oberschwäbischen texte der lieder. die band wurde im sommer 1978 während einer demonstration gegen eine jugendhausschliessung in bad schussenried gegründet. die gruppe nannte sich anfangs "igor, boris und nikita grachmusikoff".
+total:		0.3
+content:	0.3
+grammar:	1
+compact:	0.8
+abstractive: 	0
+

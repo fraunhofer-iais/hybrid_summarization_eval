@@ -1,0 +1,78 @@
+Original Text:
+tankred dorst wuchs in einer wohlhabenden oberlinder bürgerfamilie auf, die am ort die maschinenfabrik vormals georg dorst besass. aus der oberschule wurde er noch als schüler 1943 zum reichsarbeitsdienst und 1944 zur wehrmacht einberufen. nach kurzer ausbildungszeit kam er als soldat an die westfront und geriet dort in kriegsgefangenschaft. das ende des zweiten weltkrieges erlebte er in gefangenenlagern in england und den usa. als er ende 1947 aus der gefangenschaft nach westdeutschland entlassen wurde, gehörten oberlind und sonneberg schon seit zwei jahren zur sowjetischen besatzungszone. die maschinenfabrik war enteignet worden und die familie vor weitergehenden repressalien zu verwandten nach westdeutschland geflohen. tankred dorst holte in lüdinghausen das abitur nach und begann 1950 mit dem studium der germanistik und kunstgeschichte. 1951 zog er nach münchen, wo er bis 1959 ausserdem noch theaterwissenschaften studierte. praktische erfahrungen im stückeschreiben und in der theaterarbeit sammelte er am studentischen marionettenstudio "das kleine spiel", für das er bis 1959 sechs marionettenstücke schrieb. die ersten grossen theaterstücke kamen 1960 in lübeck und mannheim mit erfolg auf die bühne. diesen erfolg setzte er bis zuletzt in einer vielzahl von bühnenwerken und einigen verfilmungen vor internationalem publikum fort. schon 1963 wurde er als mitglied in die bayerische akademie der schönen künste aufgenommen. ab 1971 war er mitglied des pen-zentrums deutschland. während der arbeit am fernsehfilm "sand" lernte er ursula ehler kennen, die ihn ab anfang der 1970er jahre durch sein leben und werk als lebensgefährtin und co-autorin begleitete. ab mitte der 1970er jahre gab er fast alle veröffentlichungen mit seiner frau gemeinsam heraus. auch im ausland fand er zunehmend beachtung. so erhielt er z. b. 1973 gastprofessuren in australien und neuseeland. 1973 gründete er in münchen gemeinsam mit martin gregor-dellin, jürgen kolbe, michael krüger, fritz arnold, paul wühr, inge poppe, christoph buggert, günter herburger und peter laemmle die erste genossenschaftlich organisierte autorenbuchhandlung. 1978 wurde er zum mitglied der deutschen akademie für sprache und dichtung in darmstadt berufen und 1983 in die akademie der wissenschaften und der literatur mainz aufgenommen. 1992 war er mitbegründer der "bonner biennale". danach war er auch teil der künstlerischen leitung dieses theaterfestivals, das ab 2004 unter dem namen neue stücke aus europa vorwiegend am staatstheater wiesbaden stattfand. im wintersemester 2003/2004 nahm er unter dem titel "sich im irdischen zu üben" die frankfurter poetikdozentur an der goethe-universität in frankfurt am main wahr. dorst hat bei den richard-wagner-festspielen 2006 in bayreuth richard wagners "ring des nibelungen" neu inszeniert. er sprang damit für den dänischen filmregisseur lars von trier ein, der die regie 2004 zurückgegeben hatte. der deutsche dramatiker, der im alter von 78 jahren erstmals bei einer oper regie führte, war einer der am häufigsten gespielten autoren der nachkriegszeit auf deutschsprachigen bühnen. dorst starb am 1. juni 2017 im alter von 91 jahren. erschienen bei suhrkamp in frankfurt, 1985 bis 2008.
+
+Reference Summary:
+tankred dorst war ein deutscher dramatiker und schriftsteller. er lebte seit seiner studentenzeit lange zeit in münchen-schwabing, wo er in den 1950er jahren begann, für das marionettentheater kleines spiel zeitkritische stücke zu schreiben, die zum teil heute noch aufgeführt werden. ab den 1960er jahren wurde er durch seine drehbücher und als regisseur auch international bekannt. ab 2013 lebte er mit seiner frau ursula ehler-dorst in berlin.
+
+Generated Summary 12:
+als er ende 1947 aus der gefangenschaft nach westdeutschland entlassen wurde, gehörten oberlind und sonneberg schon seit zwei jahren zur sowjetischen besatzungszone. tankred dorst holte in lüdinghausen das abitur nach und begann 1950 mit dem studium der germanistik und kunstgeschichte.
+total:		0.2
+content:	0.2
+grammar:	1
+compact:	0.8
+abstractive: 	0
+
+Generated Summary 14:
+tankred dorst war ein deutscher opernsänger. er war mitglied des pen-zentrums deutschland in münchen.
+total:		0.1
+content:	0.1
+grammar:	1
+compact:	0.2
+abstractive: 	0.5
+
+Generated Summary 52:
+tankred dorst war ein deutscher dramatiker und einer der am häufigsten gespielten deutschsprachigen autoren der nachkriegszeit. nach seiner kriegsgefangenschaft begann er seine theaterarbeit am studentischen marionettenstudio „das kleine spiel“, für das er sechs marionettenstücke schrieb. die ersten grossen theaterstücke kamen 1960 erfolgreich auf die bühne. seine späteren werke veröffentlichte er gemeinsam mit seiner frau ursula ehler.
+total:		0.9
+content:	1
+grammar:	1
+compact:	1
+abstractive: 	0.7
+
+Generated Summary 72:
+tankred dorst war ein deutscher regisseur und theaterleiter. er war einer der am häufigsten gespielten autoren der nachkriegszeit auf deutschsprachigen bühnen.
+total:		0.75
+content:	0.8
+grammar:	1
+compact:	0.6
+abstractive: 	0.7
+
+Generated Summary 112:
+tankred dorst wurde 1943 eingezogen und geriet in kriegsgefangenschaft. nach der entlassung studierte er germanistik und schrieb erst stücke für das marionet-tentheater, dann für die grosse bühne. dorst zählt zu den erfolgreichsten deutschen bühnenautoren seiner zeit. daneben war er drehbuchautor, festivalleiter, regisseur, gastprofessor und mitglied von akademien.
+total:		0.95
+content:	1
+grammar:	1
+compact:	0.9
+abstractive: 	0.9
+
+Generated Summary 130:
+tankred dorst wuchs in einer wohlhabenden oberlinder bürgerfamilie auf, die am ort die maschinenfabrik vormals georg dorst besass. aus der oberschule wurde er noch als schüler 1943 zum reichsarbeitsdienst und 1944 zur wehrmacht einberufen. nach kurzer ausbildungszeit kam er als soldat an die westfront und geriet dort in kriegsgefangenschaft.
+total:		0.3
+content:	0.3
+grammar:	1
+compact:	0.6
+abstractive: 	0
+
+Generated Summary 162:
+praktische erfahrungen im stückeschreiben und in der theaterarbeit sammelte er am studentischen marionettenstudio "das kleine spiel", für das er bis 1959 sechs marionettenstücke schrieb.
+total:		0.1
+content:	0.2
+grammar:	1
+compact:	0.2
+abstractive: 	0
+
+Generated Summary 195:
+tankred dorst war ein wohlhabende maschinenfabrikant, der das ende des zweiten weltkrieges in england und den usa erlebte.  zusammen mit dem dänischen filmregisseur lars von trier spielte er bei den richard-wagner-festspielen 2006 in bayreuth richard wagners ring des nibelungen.
+total:		0.05
+content:	0
+grammar:	0.8
+compact:	0.8
+abstractive: 	0.8
+
+Generated Summary 211:
+georg dorst war ein deutscher theater- und filmschauspieler. er wurde vor allem durch seine arbeit am "sand" bekannt.
+total:		0.1
+content:	0.1
+grammar:	1
+compact:	0.3
+abstractive: 	0.7
+

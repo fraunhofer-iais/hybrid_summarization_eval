@@ -1,0 +1,78 @@
+Original Text:
+im frühjahr 1900 gipfelten angriffe der boxerbewegung gegen ausländer und chinesische christen in einer belagerung des gesandtschaftsviertels in peking. am 20. juni wurde der deutsche gesandte clemens von ketteler dort auf offener strasse erschossen. der versuch britischer truppen, das gesandtschaftsviertel zu entsetzen schlug fehl, woraufhin sechs europäische staaten, die usa und japan ein expeditionskorps für eine intervention nach china entsandten. bei der verabschiedung eines teils der zu diesem expeditionskorps gehörenden deutschen truppen am 27. juli in bremerhaven hielt wilhelm ii. seine berüchtigte hunnenrede. sie war nur eine von mehreren reden, die der kaiser anlässlich der ausschiffung der truppen hielt. der text der rede ist in mehreren leicht voneinander abweichenden variationen überliefert. die zentrale, berühmte passage lautete: diese passage gab der rede schon 1900 den namen hunnenrede. dabei ist die anführung der hunnen als beispiel dafür, wie die deutschen truppen sich verhalten sollen, rhetorisch in sich völlig widersprüchlich und misslungen, denn die hunnen repräsentieren ja zugleich die gelbe gefahr, die der kaiser zu bekämpfen aufruft. die rede wurde von wilhelm ii. frei gehalten, ein manuskript ist nicht überliefert, existierte vielleicht gar nicht. noch am selben tag kamen mehrere textversionen in umlauf: wilhelm ii. hat in seiner hunnenrede die deutschen truppen zu einem rücksichtslosen rachefeldzug in china aufgefordert und das auch so gemeint. hierfür gibt es weitere indizien. so hat der kaiser zur gleichen zeit für mehrere truppentransporter das nach seinem entwurf von dem maler hermann knackfuss ausgeführte bild "völker europas, wahrt eure heiligsten güter" gestiftet, eine allegorie auf die verteidigung europas unter deutscher führung gegen die angebliche "gelbe gefahr". in mindestens einem fall versah wilhelm das bild zusätzlich mit den aufschriften "pardon wird nicht gegeben" oder "kein pardon". wilhelm ii. fühlte sich zu dieser aufforderung berechtigt, besonders nach der ermordung des deutschen gesandten in china, klemens freiherr von ketteler, am 20. juni 1900 in peking. dass er damit gegen internationales recht verstossen haben könnte, hat er nicht beachtet. er bewegte sich voll im duktus des kolonialkrieges, der dem gegner keinerlei rechtsposition zugestand. die bereits 1899 vom deutschen reich unterzeichnete haager landkriegsordnung ächtet ausdrücklich die aufforderung, im krieg kein pardon zu geben. allerdings war unter den zeitgenossen umstritten, ob dieses abkommen auf china anwendbar sei, denn china hatte zwar an der haager friedenskonferenz teilgenommen, gehörte jedoch nicht zu den unterzeichnern der landkriegsordnung. ein teil der moralischen entrüstung des kaisers geht möglicherweise auch auf die mitte juli zunächst in der britischen daily mail und später in der deutschen und internationalen presse verbreitete, mit grausigen details ausgeschmückte falschmeldung zurück, das pekinger gesandtschaftsviertel sei erstürmt und ausnahmslos alle ausländer umgebracht worden. politiker und journalisten in anderen europäischen staaten, die sich an der niederschlagung des boxeraufstandes beteiligten, riefen ebenfalls zur rache für die ermordung westlicher ausländer in china auf, etwa the times in london. in einer damals weit verbreiteten kolonialen attitüde waren sie empört, dass ein als zu kolonisierend betrachtetes land es wagte, den sich überlegen fühlenden europäern – zunächst relativ erfolgreich – widerstand entgegen zu setzen. allerdings ging niemand in seiner ausdrucksweise so weit wie der deutsche kaiser. mit seiner drastischen rhetorik trug er dazu bei, dass der internationale militäreinsatz in china tatsächlich mit äusserster grausamkeit geführt wurde – wobei es auch nicht allein die deutschen truppen waren, die kein pardon gaben. die peinlichkeit der ausführungen des kaisers spiegelt sich auch in der tatsache, dass in allen redensammlungen des kaisers bis in die mitte der 1970er jahre ausschliesslich die "entschärften" varianten der rede aufgenommen wurden. die nach china abgehenden soldaten nahmen den kaiser wörtlich. so berichtet der kavallerist heinrich haslinde in seinem tagebuch: soldaten versahen die eisenbahnwagen, die sie an die küste transportierten, mit aufschriften wie "rache ist süss" oder "pardon wird nicht gegeben". mit der "hunnenrede" stiess wilhelm ii. im in- und ausland auf zustimmung, aber auch auf kritik. dabei wurde der vergleich mit den hunnen auch in deutschland als metapher für die grausame kriegsführung herangezogen. in deutschen zeitungen abgedruckte soldatenbriefe, die über ausschreitungen während des einsatzes in china berichteten, wurden als "hunnenbriefe" bezeichnet. und der reichstagsabgeordnete friedrich naumann erhielt wegen seiner verteidigung der militärintervention in china den spitznamen "hunnenpastor". der freisinnige abgeordnete eugen richter verurteilte dagegen am 20. november 1900 im reichstag das vorgehen der deutschen truppen in china, das durch die bemerkungen des kaisers angestachelt worden war. in der realität war das verhalten der deutschen truppen während der intervention in china nicht besser oder schlechter als das von truppenteilen der anderen beteiligten nationen. alle beteiligten mächte machten sich nach heutigem verständnis schwerer menschenrechtsverletzungen und kriegsverbrechen schuldig. die hunnenrede ist allerdings insofern bemerkenswert, weil in ihr ein staatsoberhaupt seine soldaten in aller öffentlichkeit zu solchem verhalten auffordert. grosse wirkung entfaltete die "hunnenrede" während des ersten weltkriegs, als britische kriegspropaganda die "hunnen"-metapher aufgriff und als synonym für die deutschen und ihr als barbarisch bezeichnetes verhalten verwendete. in grossbritannien prägte die rede den begriff "the huns" für die deutschen. von grossbritannien requirierte deutsche handelsdampfer wurden als "hunnendampfer" bezeichnet. eine anfang des 20. jahrhunderts aufgenommene phonographenwalze mit der leicht gekürzten zweiten fassung der rede wurde 2012 rekonstruiert. die walze wurde von norman bruderhofer digitalisiert. ob es sich beim sprecher der wachswalze jedoch tatsächlich um wilhelm ii. handelt, ist zweifelhaft.
+
+Reference Summary:
+die "hunnenrede" hielt kaiser wilhelm ii. am 27. juli 1900 in bremerhaven anlässlich der verabschiedung des deutschen ostasiatischen expeditionskorps zur niederschlagung des boxeraufstandes im kaiserreich china. berühmt wurde sie wegen ihrer drastischen aussagen und weil eine ihrer zentralen aussagen während des ersten weltkriegs durch die entente rhetorisch gegen deutschland eingesetzt wurde.
+
+Generated Summary 25:
+bei der verabschiedung eines teils der zu diesem expeditionskorps gehörenden deutschen truppen am 27. juli in bremerhaven hielt wilhelm ii. seine berüchtigte hunnenrede. sie war nur eine von mehreren reden, die der kaiser anlässlich der ausschiffung der truppen hielt.
+total:		0.3
+content:	0.4
+grammar:	1
+compact:	0.8
+abstractive: 	0
+
+Generated Summary 26:
+im frühjahr 1900 gipfelten angriffe der boxerbewegung gegen ausländer und chinesische christen in einer belagerung des gesandtschaftsviertels in peking. am 20. juni wurde der deutsche gesandte clemens von ketteler dort auf offener strasse erschossen. der versuch britischer truppen, das gesandtschaftsviertel zu entsetzen schlug fehl, woraufhin sechs europäische staaten, die usa und japan ein expeditionskorps für eine intervention nach china entsandten.
+total:		0.25
+content:	0.3
+grammar:	1
+compact:	0.8
+abstractive: 	0
+
+Generated Summary 73:
+so hat der kaiser zur gleichen zeit für mehrere truppentransporter das nach seinem entwurf von dem maler hermann knackfuss ausgeführte bild "völker europas, wahrt eure heiligsten güter" gestiftet, eine allegorie auf die verteidigung europas unter deutscher führung gegen die angebliche "gelbe gefahr".
+total:		0.1
+content:	0.2
+grammar:	1
+compact:	0.7
+abstractive: 	0
+
+Generated Summary 136:
+die "hunnenrede" war eine von mehreren reden, die der kaiser wilhelm ii. anlässlich der ausschiffung der china-expedition zur niederschlagung des boxeraufstandes im juli 1900 in bremerhaven hielt.  die rede wurde vom kaiser frei gehalten, weshalb mehrere versionen in umlauf kamen. sicher ist aber, dass der kaiser die deutschen truppen zu brutalem und vermutlich (völker)rechtswidrigen vorgehen aufrief mit worten wie: „pardon wird nicht gegeben. gefangene werden nicht gemacht“.
+total:		0.9
+content:	0.9
+grammar:	1
+compact:	0.9
+abstractive: 	0.9
+
+Generated Summary 144:
+die "hunnenrede" wurde vom deutschen gesandten in china, klemens freiherr von ketteler, am 20. juni 1900 in peking gehalten. es geht dabei um die bereits 1899 vom deutschen reich unterzeichnete haager landkriegsordnung und um eine damals weit verbreiteten kolonialen attitüde, dass ein als zu kolonisieren betrachtetes land es wagte, den sich überlegen fühlenden europäern – zunächst relativ erfolgreich – widerstand entgegenzusetzen.
+total:		0.15
+content:	0.1
+grammar:	0.5
+compact:	0.8
+abstractive: 	0.6
+
+Generated Summary 184:
+nach der ermordung des deutschen gesandten während des boxeraufstands entsandte wilhelm ii. truppen nach china. bei ihrer einschiffung rief er ihnen zu: «pardon wird nicht gegeben!», um ein exempel zu statuieren. als folge dieses verstosses gegen geltendes völkerrecht wurde die bezeichnung «hunnen» auf die deutschen übertragen.
+total:		0.8
+content:	0.7
+grammar:	1
+compact:	0.8
+abstractive: 	0.9
+
+Generated Summary 193:
+der hunnenrede ist ein deutscher kriminalfilm von ketteler aus dem jahr 1900. der film basiert auf dem gleichnamigen roman von wilhelm ii..
+total:		0.1
+content:	0.05
+grammar:	1
+compact:	0.6
+abstractive: 	0.9
+
+Generated Summary 205:
+die hunnenrede war eine von wilhelm ii. herausgegebene rede zum ersten weltkrieg. sie wurde von der deutschen kaiserlichen marine als synonym für die expedition 1900 verwendet.
+total:		0.35
+content:	0.3
+grammar:	1
+compact:	0.6
+abstractive: 	0.8
+
+Generated Summary 216:
+die hunnenrede ist eine rede des deutschen kaisers wilhelm ii., die am 27. juli 1900 in bremerhaven stattfand. sie gilt als metapher für die grausame kriegsführung.
+total:		0.8
+content:	0.8
+grammar:	1
+compact:	0.6
+abstractive: 	0.9
+
