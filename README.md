@@ -9,7 +9,7 @@ It can be installed in development mode with:
 
 ```sh
 
-   $ git clone fraunhofer-iais/hybrid_summarization_eval
+   $ git clone https://github.com/fraunhofer-iais/hybrid_summarization_eval.git
    $ cd hybrid_summarization_eval
    $ pip install -e .
 ```
@@ -19,7 +19,11 @@ reflected immediately.
 
 How to use
 --------
+The results obtained for the shared task can be reproduced by executing the script:
+```sh
 
+   $ python src/konvens2020_summarization/run_pipeline.py
+```
 Citation
 --------
 If you find our software useful in your work, please consider citing:
